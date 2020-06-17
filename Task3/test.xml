@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><carPark><cars><car Id="1" Brand="Toyota" Price="6000" Type="Crossroad" /></cars><clients><client Id="1" Name="Oleksandr" Address="Kyiv" PhoneNumber="0992297172" /><client Id="2" Name="Iryna" Address="Kiyv" PhoneNumber="0663528837" /></clients><records /></carPark>
