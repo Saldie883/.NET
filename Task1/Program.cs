@@ -10,7 +10,7 @@ namespace Task1
         private static void Main(string[] args)
         {
             // тут потрібен  шлях до бази даних
-            string connectionStr = "Data Source=WIN-VKKPI9QJ4AH;Initial Catalog=RieltorBase;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string connectionStr = "Data Source=DESKTOP-T829926;Initial Catalog=RieltorBase;Integrated Security=True";
             BaseConnection connection = new BaseConnection(connectionStr);
 
             // команда прочитати усі таблиці
